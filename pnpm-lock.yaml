@@ -12,8 +12,8 @@ importers:
         specifier: ^1.7.22
         version: 1.7.22(vue@3.4.27(typescript@5.4.5))
       '@zaalbarxx/ui-library-webstorm-imports':
-        specifier: 0.0.3
-        version: 0.0.3
+        specifier: 0.0.4
+        version: 0.0.4
       primevue:
         specifier: ^3.52.0
         version: 3.52.0(vue@3.4.27(typescript@5.4.5))
@@ -573,8 +573,8 @@ packages:
   '@vue/tsconfig@0.5.1':
     resolution: {integrity: sha512-VcZK7MvpjuTPx2w6blwnwZAu5/LgBUtejFOi3pPGQFXQN5Ela03FUtd2Qtg4yWGGissVL0dr6Ro1LfOFh+PCuQ==}
 
-  '@zaalbarxx/ui-library-webstorm-imports@0.0.3':
-    resolution: {integrity: sha512-xJ8cV5K4fpygr2mgUpyEzr/KBISwLpAWeqhdOCN8dl/vQD0KrXpLVwT4FJlp1hMSohlxw7f7WmmDEOrE0eqPUw==}
+  '@zaalbarxx/ui-library-webstorm-imports@0.0.4':
+    resolution: {integrity: sha512-aZ6fEeTPypbDlwicEumosU24Hay1s1g6u9YGzI0hfuI7RpmhhAtUUPrFHjHy2eSiXe9xlhGuB4cSDkhmaSvZwA==}
 
   acorn@7.4.1:
     resolution: {integrity: sha512-nQyp0o1/mNdbTO1PO6kHkwSrmgZ0MT/jCCpNiwbUjGoRN4dlBhqJtoQuCnEOKzgTVwg0ZWiCoQy6SxMebQVh8A==}
@@ -1752,7 +1752,7 @@ snapshots:
 
   '@vue/tsconfig@0.5.1': {}
 
-  '@zaalbarxx/ui-library-webstorm-imports@0.0.3': {}
+  '@zaalbarxx/ui-library-webstorm-imports@0.0.4': {}
 
   acorn@7.4.1: {}
 

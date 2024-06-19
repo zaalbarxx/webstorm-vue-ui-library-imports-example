@@ -1,6 +1,8 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
-import TheWelcome from './components/TheWelcome.vue'
+import TheWelcome from "@/components/TheWelcome.vue";
+
+const test = AppAlert; //not able to resolve this
+const test = noop(); //not able to resolve it
 </script>
 
 <template>
@@ -10,8 +12,9 @@ import TheWelcome from './components/TheWelcome.vue'
       <HelloWorld msg="You did it!" />
     </div>
   </header>
-
+  <VDialog />
   <main>
+    <AppAlert />
     <TheWelcome />
   </main>
 </template>
