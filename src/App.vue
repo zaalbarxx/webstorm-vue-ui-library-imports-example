@@ -1,7 +1,8 @@
 <script setup lang="ts">
 import TheWelcome from "@/components/TheWelcome.vue";
+//import AppAlert from '@zaalbarxx/ui-library-webstorm-imports/dist/components/AppAlert/AppAlert';
 
-const test = AppAlert; //not able to resolve this
+const test = AppAlert //not able to resolve this;
 const test = noop(); //not able to resolve it
 </script>
 
