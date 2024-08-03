@@ -1,22 +1,9 @@
 <script setup lang="ts">
-import TheWelcome from "@/components/TheWelcome.vue";
-//import AppAlert from '@zaalbarxx/ui-library-webstorm-imports/dist/components/AppAlert/AppAlert';
-
-const test = AppAlert //not able to resolve this;
-const test = noop(); //not able to resolve it
 </script>
 
 <template>
-  <header>
-    <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
-    <div class="wrapper">
-      <HelloWorld msg="You did it!" />
-    </div>
-  </header>
-  <VDialog />
   <main>
     <AppAlert />
-    <TheWelcome />
   </main>
 </template>
 
